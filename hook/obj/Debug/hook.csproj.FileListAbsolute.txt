@@ -1,0 +1,9 @@
+C:\Users\Alex\source\repos\hook\hook\bin\Debug\hook.exe.config
+C:\Users\Alex\source\repos\hook\hook\bin\Debug\hook.exe
+C:\Users\Alex\source\repos\hook\hook\bin\Debug\hook.pdb
+C:\Users\Alex\source\repos\hook\hook\obj\Debug\hook.csprojResolveAssemblyReference.cache
+C:\Users\Alex\source\repos\hook\hook\obj\Debug\hook.Properties.Resources.resources
+C:\Users\Alex\source\repos\hook\hook\obj\Debug\hook.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\hook\hook\obj\Debug\hook.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\hook\hook\obj\Debug\hook.exe
+C:\Users\Alex\source\repos\hook\hook\obj\Debug\hook.pdb
